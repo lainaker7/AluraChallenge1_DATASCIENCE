@@ -47,6 +47,6 @@ Costos de envío promedio
 las ganancias directas.
 
 Además, se recomienda enfocar las acciones comerciales en productos de baja rotación y mantener un stock sano.
-Además de prestar atención al nivel de satisfacción de los consumidores quienes finalmente son la fuente de ingresos de las tiendas.
+Además de prestar atención al nivel de satisfacción de los consumidores quienes finalmente son la fuente de ingresos de las tiendas. 💰
 
 
