@@ -19,5 +19,30 @@ seguir invirtiendo, para ello quiere saber sus ventas, los comentarios de los cl
 cuales son los productos más vendidos y los costos de envío asociados
 
 
+# 📊 BACKLOG para el análisis de los datos desde Trello.
+
+Analisis de facturacion
+Revisión de los datos de ventas, ingresos de las 4 tiendas.
+
+Ventas por categoría
+Identificación de las categorías más vendidas en cada tienda para conocer las preferencias de los clientes.
+
+Calificacion promedio de la tienda
+Comparación de las calificaciones promedio por tienda para evaluar la percepción de los usuarios.
+
+4.Productos más y menos vendidos
+Visualización de los productos con mejor y peor desempeño (verde = más vendido, rojo = menos vendido).
+
+Costos de envío promedio
+Análisis de los costos promedio de envío por tienda y su relación con la rentabilidad.
+
+# **Conclusion y recomendacion**
+
+# 💡 Conclusión y recomendación.
+“Se recomienda vender la Tienda 4”, ya que genera menores ingresos, los costos de envíos son menores afectando
+las ganancias directas.
+
+Además, se recomienda enfocar las acciones comerciales en productos de baja rotación y mantener un stock sano.
+Además de prestar atención al nivel de satisfacción de los consumidores quienes finalmente son la fuente de ingresos de las tiendas.
 
 
